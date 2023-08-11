@@ -8,6 +8,13 @@
             "type": "java",
             "name": "main",
             "request": "launch",
+            "mainClass": "day5_String.main",
+            "projectName": "myJava_585435ef"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
             "mainClass": "day3.main",
             "projectName": "myJava_585435ef"
         },
