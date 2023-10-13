@@ -8,6 +8,83 @@
             "type": "java",
             "name": "main",
             "request": "launch",
+            "mainClass": "day13_custum_class.main",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "day12_mathod.main",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "day11_practice.practice",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "day11_practice",
+            "request": "launch",
+            "mainClass": "day11_practice.day11_practice",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "day11_practice.main",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "day10_arrays.day10_2.main",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "day9_else_if_and_switch.main",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "day8_logical_relational_operator.main",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "day7_if_else.main",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "day6_String.main",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
             "mainClass": "day5_String.main",
             "projectName": "myJava_585435ef"
         },
