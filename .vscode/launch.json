@@ -8,6 +8,13 @@
             "type": "java",
             "name": "main",
             "request": "launch",
+            "mainClass": "day15_constructor.main",
+            "projectName": "myJava_ef4eef47"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
             "mainClass": "day14_AccessModifire.main",
             "projectName": "myJava_ef4eef47"
         },
