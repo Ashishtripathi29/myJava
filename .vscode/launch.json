@@ -6,6 +6,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyThreads3",
+            "request": "launch",
+            "mainClass": "day19.MyThreads3",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "MyThreads2",
+            "request": "launch",
+            "mainClass": "day19.MyThreads2",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "MyThreads",
+            "request": "launch",
+            "mainClass": "day19.MyThreads",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "TryWithResources",
+            "request": "launch",
+            "mainClass": "day19.TryWithResources",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "InputBuffer",
+            "request": "launch",
+            "mainClass": "day19.InputBuffer",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "ThroseErrors",
+            "request": "launch",
+            "mainClass": "day19.ThroseErrors",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "ThroseError",
+            "request": "launch",
+            "mainClass": "day19.ThroseError",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "CustomError",
+            "request": "launch",
+            "mainClass": "day19.CustomError",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch2",
+            "request": "launch",
+            "mainClass": "day19.TryCatch2",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "day19.TryCatch",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "InterF",
+            "request": "launch",
+            "mainClass": "day18_opps.abstracts.InterF",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "Anonymouse",
+            "request": "launch",
+            "mainClass": "day18_opps.abstracts.Anonymouse",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "InnerClass",
+            "request": "launch",
+            "mainClass": "day18_opps.abstracts.InnerClass",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "Abstractfile",
+            "request": "launch",
+            "mainClass": "day18_opps.abstracts.Abstractfile",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "day18_opps.day18_quiz_game.Quiz",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "OverRiding",
+            "request": "launch",
+            "mainClass": "OverRiding",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "Polly",
+            "request": "launch",
+            "mainClass": "Polly",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
+            "name": "Encap",
+            "request": "launch",
+            "mainClass": "day17_static.Encap",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "day15_constructor.main",

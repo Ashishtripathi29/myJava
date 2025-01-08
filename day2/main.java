@@ -35,6 +35,7 @@ class main {
         System.out.println("now enter the value of boolean");
         Boolean myBoolean =sc.nextBoolean();
         System.out.println("the  boolean value  is :"+myBoolean);
+        sc.close();
 
     }
 }
