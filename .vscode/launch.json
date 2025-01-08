@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyThreadWithRaceCondition",
+            "request": "launch",
+            "mainClass": "day19.MyThreadWithRaceCondition",
+            "projectName": "myJava_a27e62ad"
+        },
+        {
+            "type": "java",
             "name": "MyThreads3",
             "request": "launch",
             "mainClass": "day19.MyThreads3",
